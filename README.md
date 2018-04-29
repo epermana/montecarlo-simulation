@@ -1,6 +1,11 @@
 # montecarlo-simulation
 montecarlo-simulation finance
 
+to run test run
+mvn clena install 
+then
+ mvn test on AssetSimulatorTest
+
 copy and paste requirement
 
 Modern Portfolio Theory says that it is not enough to look at the expected risk and return of one particular stock. By investing in more than one stock, an investor can reap the benefits of diversification- chief among them, a reduction in the riskiness of the portfolio. 
